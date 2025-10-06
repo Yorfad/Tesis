@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+.pixel-art-image {
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}

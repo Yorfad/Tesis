@@ -1,0 +1,6 @@
+# Google Cloud Credentials
+server/google-credentials.json
+node_modules/
+web/node_modules/
+server/node_modules/
+server/dist/
